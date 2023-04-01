@@ -1,0 +1,57 @@
+.video{
+    width: 350px;
+    margin-left: 170px;
+    transition: transform .3s;
+}
+.video1{
+    width: 350px;
+    margin-left: 40px;
+    transition: transform .4s;  
+}
+.video2{
+    width: 350px;
+    margin-left: 40px;
+    transition: transform .4s;
+}
+.rem{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.nav1{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.nav2{
+    margin-left: 150px;
+}
+.he1{
+    margin-left: 550px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.he2{
+    margin-left: 650px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mainhe{
+    margin-left: 90px;
+    
+}
+.colo{
+    background-color: black;
+    width: 700px;
+}
+.video:hover{
+    transform: scale(1.1); 
+    transform-origin: center;
+    
+} 
+.video1:hover{
+    transform: scale(1.1); 
+    transform-origin: center;
+}
+.video2:hover{
+    transform: scale(1.1); 
+    transform-origin: center;
+}

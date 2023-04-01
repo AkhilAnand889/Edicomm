@@ -1,0 +1,254 @@
+.f{
+    font-size:80px;
+    margin-top: 100px;
+    font-weight: 600;
+    width: fit-content;
+}
+.re{
+    margin-top: 50px;
+    margin-left: 260px;
+}
+.x{
+    margin-left: 450px;
+}
+.z{
+    margin-left: 650px;
+    position: relative;
+    top: 0;
+    margin-top: 456px;
+}
+.m{
+    margin-left: 850px;
+    position: absolute;
+    top: 0;
+    margin-top: 456px;
+}
+.p{
+    margin-left: 1050px;
+    position: absolute;
+    top: 0;
+    margin-top: 456px;
+}
+.p:hover{
+    color: rgb(190, 33, 67);
+}
+.m:hover{
+    color: rgb(190, 33, 67);
+}
+.z:hover{
+    color: rgb(190, 33, 67);
+}
+.x:hover{
+    color: rgb(190, 33, 67);
+}
+.py{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.one{
+    position: relative;
+}
+.imgone:hover{
+    transform: scale(1.1);
+}
+.nature{
+    margin-left: 50px;
+}
+.spa{
+    margin-left: 30px;
+    display: inline;
+}
+.text {
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: white; /* Make the text white */
+    font-size: 17px; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+    margin-left: 80px;
+    margin-top: 100px;
+ }
+ .imgtwo{
+    margin-left: 450px;
+    width: 320px;
+    height: 197px;
+    position: absolute; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+ }
+ .text2{
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: white; /* Make the text white */
+    font-size: 17px; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+    margin-left: 470px;
+    margin-top: 100px;
+ }
+.imgtwo:hover{
+    transform: scale(1.1);
+}
+.imgthree{
+    margin-left: 800px;
+    width: 320px;
+    height: 197px;
+    position: absolute; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+}
+.text3{
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: white; /* Make the text white */
+    font-size: 17px; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+    margin-left: 820px;
+    margin-top: 100px;
+}
+.imgthree:hover{
+    transform: scale(1.1);
+}
+.img4{
+    margin-left: 1150px;
+    width: 300px;
+    height: 197px;
+    position: absolute;
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+}
+.img4:hover{
+    transform: scale(1.1);
+}
+.text4{
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: white; /* Make the text white */
+    font-size: 17px; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+    margin-left: 1170px;
+    margin-top: 100px;
+}
+.view{
+    margin-left: 1330px;
+    position:absolute;
+    top: 0;
+    margin-top: 575px;
+}
+.music{
+    margin-top: 220px;
+}
+.rows{
+    margin-top: 200px;
+}
+.texts{
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: rgb(15, 15, 15); /* Make the text white */
+    font-size: 20px; /* Increase the font size */
+    font-weight: 500; /* Make the text bold */
+    margin-left: 50px;
+    margin-top: 220px;
+}
+.imgones{
+    width: 350px;
+    margin-left: 63px; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+    height: 200px;
+}
+.imgones:hover{
+    transform: scale(1.1);
+}
+.imgone{
+    width: 350px;
+    margin-left: 63px; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+    height: 200px;
+    
+}
+.imgone:hover{
+    transform: scale(1.1);
+}
+.web{
+    margin-top: 300px;
+    margin-left: 300px;
+}
+.web:hover{
+    color: blue;
+}
+.para{
+    margin-left: 900px;
+    position: absolute;
+    top: 0;
+    margin-top: 1700px;
+}
+.p1{
+    margin-left: 900px;
+    position: absolute;
+    top: 0;
+    margin-top: 1780px;
+}
+.p3{
+    margin-left: 900px;
+    position: absolute;
+    top: 0;
+    margin-top: 1880px;
+}
+.p2{
+    margin-left: 900px;
+    position: absolute;
+    top: 0;
+    margin-top: 1980px;
+}
+
+.l4{
+    margin-right: 50px;
+}
+
+.text8{
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: rgb(56, 51, 51); /* Make the text white */
+    font-size: 18px; /* Increase the font size */
+    font-weight: 654; /* Make the text bold */
+    margin-left: 50px;
+    margin-top: 770px;
+}
+.text9{
+    position: absolute; /* Position the text inside the container */
+    z-index: 1; /* Set the z-index of the text to be in front of the image */
+    top: 10px; /* Add some top margin */
+    left: 10px; /* Add some left margin */
+    color: rgb(41, 60, 66); /* Make the text white */
+    font-size: 18px; /* Increase the font size */
+    font-weight: 654; /* Make the text bold */
+    margin-left: 50px;
+    margin-top: 500px;
+}

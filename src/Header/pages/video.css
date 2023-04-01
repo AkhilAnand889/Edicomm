@@ -1,0 +1,215 @@
+.first{
+    background-color: rgb(87, 150, 150);
+    height: 330px;
+    margin-top: 40px;
+    
+}
+.second{
+    background-color: rgb(37, 126, 126);
+    height: 65px;
+}
+.head1{
+    margin-left: 120px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: azure;
+    font-size: 17px;
+}
+.head2{
+    font-size: 17px;
+    margin-left: 190px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(244, 249, 249);
+}
+.head3{
+    font-size: 17px;
+    font-size: 17px;
+    margin-left: 340px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(241, 246, 246);
+}
+.head4{
+    font-size: 17px;
+    margin-left: 510px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(237, 243, 243);
+}
+.head5{
+    font-size: 17px;
+    margin-left: 635px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(243, 247, 247);
+}
+.head6{
+    font-size: 17px;
+    margin-left: 790px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(245, 251, 251);
+
+}
+.head7{
+    font-size: 17px;
+    margin-left: 890px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(242, 249, 249);
+
+}
+.head8{
+    font-size: 17px;
+    margin-left: 990px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(240, 244, 244);
+}
+.half{
+    height: 265px;
+    width: 1490px;
+    opacity: 0.6;
+    z-index: -1;   
+}
+.middle{
+    position: absolute;
+    top: 0;
+    margin-top: 250px;
+    color: whitesmoke;
+    margin-left: 170px;
+    font-size: 38px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.last{
+    position: absolute;
+    top: 0;
+    margin-top: 306px;
+    color: whitesmoke;
+    margin-left: 320px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ravan{
+    margin-left: 688px;
+    padding-left: 10px;
+    position: absolute;
+    top: 0;
+    margin-top: 350px;
+    color: aqua;
+}
+.mrm-sm-2{
+    margin-left: 380px;
+    width: 300px;
+    position: absolute;
+    top: 0;
+    margin-top: 350px;
+}
+.ravan:hover{
+    background-color:black;
+}
+.num2{
+    width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-left: 1100px;
+  position: absolute;
+  top: 0;
+  margin-top: 250px;
+  opacity: 0.4;
+}
+.ash{
+    height: 90px;
+    background-color: rgb(240, 249, 246);
+}
+.y1{
+    margin-left: 450px;
+    position: absolute;
+    top: 0;
+    margin-top: 430px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.q1{
+    margin-left: 450px;
+    position: absolute;
+    top: 0;
+    margin-top: 453px;   
+}
+
+.short{
+    width: 70px;
+    top: 0;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 439px;
+    border-radius: 50%;
+}
+.crack{
+    position: absolute;
+    top: 0;
+    margin-top: 445px;
+    margin-left: 170px;
+    font-size: 23px;
+}
+
+.tech{
+    position: absolute;
+    top: 0;
+    margin-top: 453px;
+    margin-left: 270px;
+    font-size: 14px;
+}
+.myone{
+    position: relative;
+}
+.img10{
+    margin-left: 200px;
+    width: 320px;
+    height: 197px;
+    position: absolute; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+}
+.img11{
+    margin-left: 550px;
+    width: 320px;
+    height: 197px;
+    position: absolute; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+}
+.img12{
+    margin-left: 900px;
+    width: 320px;
+    height: 197px;
+    position: absolute; /* Position the image inside the div */
+    top: 0; /* Align the top of the image with the top of the div */
+    left: 0; /* Align the left of the image with the left of the div */
+    transition: transform .4s;
+    position: absolute; /* Position the image inside the container */
+    z-index: -1;
+}
+.button1{
+    margin-left: 1250px;
+    margin-top: 30px;
+}
+.button1:hover{
+    background-color: yellow;
+    color: black;
+}

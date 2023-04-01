@@ -1,0 +1,159 @@
+.dir{
+    background-color: rgb(82, 58, 169);
+    height: 330px;
+    margin-top: 40px;
+    margin-top: 40px;
+}
+.dir2{
+    background-color: rgb(34, 11, 108);
+    height: 65px;
+}
+.head9{
+    margin-left: 120px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: azure;
+    font-size: 17px;
+}
+.head10{
+    font-size: 17px;
+    margin-left: 190px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(244, 249, 249);
+}
+.head11{
+    font-size: 17px;
+    font-size: 17px;
+    margin-left: 340px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(241, 246, 246);
+}
+.head12{
+    font-size: 17px;
+    margin-left: 510px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(237, 243, 243);
+}
+.head13{
+    font-size: 17px;
+    margin-left: 685px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(243, 247, 247);
+}
+.head14{
+    font-size: 17px;
+    margin-left: 790px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(245, 251, 251);
+}
+.head15{
+    font-size: 17px;
+    margin-left: 890px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(242, 249, 249);
+}
+.head16{
+    font-size: 17px;
+    margin-left: 990px;
+    position: absolute;
+    top: 0;
+    margin-top: 110px;
+    color: rgb(240, 244, 244);
+}
+.good{
+   position: absolute;
+   top: 0;
+   margin-top: 150px;
+   height: 270px;
+   width: 1500px;
+}
+.g-4{
+    width: 380px;
+    height: 300px;
+    margin-left: 130px;
+}
+.ima1{
+    height: 230px;
+}
+.ima3{
+    width: 379px;
+    height: 200px;
+}
+.play{
+    position: absolute;
+    top: 0;
+    margin-left: 190px;
+    margin-top: 180px;
+    background-color: gold;
+}
+.plays{
+    
+    position: absolute;
+    top: 0;
+    margin-left: 290px;
+    margin-top: 180px;
+    background-color: gold;
+}
+.ht{
+    margin-left: 430px;
+    position: absolute;
+    top: 580px;
+}
+.hf{
+    margin-left: 850px;
+    position: absolute;
+    top: 580px;
+}
+.hs{
+    margin-left: 430px;
+    position: absolute;
+    top: 905px;
+}
+.tr{
+    margin-left: 853px;
+    position: absolute;
+    top: 905px;
+}
+.y9{
+    margin-left: 430px;
+    position: absolute;
+    top: 1230px;
+}
+.y10{
+    margin-left: 430px;
+    position: absolute;
+    top: 1557px;
+}
+.u1{
+    margin-left: 853px;
+    position: absolute;
+    top: 1230px;
+}
+.h18{
+    margin-left: 855px;
+    position: absolute;
+    top: 1560px;
+}
+.top20{
+    position: absolute;
+    top: 2000px;
+    margin-left: 200px;
+}
+.thank{
+    position: absolute;
+    top: 2080px;
+    margin-left: 500px;
+}
